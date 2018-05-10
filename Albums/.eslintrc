@@ -1,0 +1,7 @@
+{
+  "extends": "rallycoding",
+  "parser": "babel-eslint",
+  "globals": {
+    "fetch": false
+  }
+}
